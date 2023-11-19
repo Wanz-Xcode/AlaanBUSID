@@ -1,4 +1,4 @@
-#ENCODED BY : MUMIT ISLAM HIMU
+#ENCODED BY : Wanz-Xcode
 #ENCRYPTION : Py3 MARSHAL
 #GITHUB : https://github.com/MUMIT-404-CYBER
 #----------------------------------------------
